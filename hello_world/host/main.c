@@ -37,7 +37,7 @@
 
 int main(void)
 {
-	TEEC_Result res
+	TEEC_Result res;
 	TEEC_Context ctx;
 	TEEC_Session sess;
 	TEEC_Operation op;
